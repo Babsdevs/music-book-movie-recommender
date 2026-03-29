@@ -1,0 +1,101 @@
+title,genre,rating,mood_tags,year
+The Shawshank Redemption,drama,7.7,"emotional, reflective, deep",1995
+Forrest Gump,drama,6.7,"emotional, reflective, deep",1999
+Schindler's List,drama,7.1,"emotional, reflective, deep",2010
+A Beautiful Mind,drama,7.4,"emotional, reflective, deep",1992
+Good Will Hunting,drama,9.1,"emotional, reflective, deep",2011
+The Green Mile,drama,8.7,"emotional, reflective, deep",2017
+Whiplash,drama,7.4,"emotional, reflective, deep",1994
+Manchester by the Sea,drama,8.8,"emotional, reflective, deep",2019
+Moonlight,drama,7.5,"emotional, reflective, deep",2014
+Parasite,drama,7.3,"emotional, reflective, deep",2003
+Free Solo,documentary,6.9,"calm, curious, informative",2005
+Won't You Be My Neighbor,documentary,8.8,"calm, curious, informative",2010
+March of the Penguins,documentary,8.1,"calm, curious, informative",1997
+Blackfish,documentary,8.5,"calm, curious, informative",2020
+The Act of Killing,documentary,8.8,"calm, curious, informative",2021
+Amy,documentary,7.0,"calm, curious, informative",1998
+Icarus,documentary,7.3,"calm, curious, informative",2021
+Making a Murderer,documentary,6.6,"calm, curious, informative",2006
+13th,documentary,8.3,"calm, curious, informative",2014
+The Social Dilemma,documentary,6.9,"calm, curious, informative",1990
+Mad Max Fury Road,action,8.6,"exciting, energetic, intense",2006
+John Wick,action,9.3,"exciting, energetic, intense",2013
+The Dark Knight,action,7.0,"exciting, energetic, intense",2004
+Die Hard,action,8.6,"exciting, energetic, intense",1995
+Mission Impossible,action,9.3,"exciting, energetic, intense",2012
+Gladiator,action,6.9,"exciting, energetic, intense",2006
+Top Gun Maverick,action,6.6,"exciting, energetic, intense",2018
+Avengers Endgame,action,6.9,"exciting, energetic, intense",1995
+The Matrix,action,7.5,"exciting, energetic, intense",1992
+Speed,action,6.9,"exciting, energetic, intense",2001
+Rocky,sport,8.5,"motivational, energetic, uplifting",1990
+Remember the Titans,sport,7.4,"motivational, energetic, uplifting",2015
+Moneyball,sport,7.0,"motivational, energetic, uplifting",2021
+The Blind Side,sport,7.7,"motivational, energetic, uplifting",1993
+Rush,sport,7.7,"motivational, energetic, uplifting",2008
+I Tonya,sport,8.8,"motivational, energetic, uplifting",2003
+Ford v Ferrari,sport,8.6,"motivational, energetic, uplifting",2003
+Creed,sport,9.0,"motivational, energetic, uplifting",1993
+Coach Carter,sport,8.2,"motivational, energetic, uplifting",2018
+Invictus,sport,9.0,"motivational, energetic, uplifting",2022
+Titanic,romance,9.4,"warm, emotional, hopeful",2008
+The Notebook,romance,7.8,"warm, emotional, hopeful",1994
+La La Land,romance,8.7,"warm, emotional, hopeful",1995
+Before Sunrise,romance,6.9,"warm, emotional, hopeful",2008
+About Time,romance,7.7,"warm, emotional, hopeful",1999
+Eternal Sunshine,romance,8.9,"warm, emotional, hopeful",2020
+Her,romance,7.4,"warm, emotional, hopeful",2012
+500 Days of Summer,romance,7.4,"warm, emotional, hopeful",2011
+Crazy Rich Asians,romance,8.5,"warm, emotional, hopeful",1997
+When Harry Met Sally,romance,7.3,"warm, emotional, hopeful",1992
+Get Out,horror,9.1,"dark, tense, unsettling",2008
+Hereditary,horror,8.4,"dark, tense, unsettling",2005
+A Quiet Place,horror,7.0,"dark, tense, unsettling",2022
+Midsommar,horror,8.1,"dark, tense, unsettling",2000
+The Conjuring,horror,7.1,"dark, tense, unsettling",2001
+It,horror,8.4,"dark, tense, unsettling",2022
+Us,horror,7.8,"dark, tense, unsettling",2017
+The Witch,horror,7.7,"dark, tense, unsettling",2022
+Sinister,horror,7.4,"dark, tense, unsettling",2008
+Doctor Sleep,horror,8.5,"dark, tense, unsettling",1991
+Se7en,thriller,7.1,"dark, tense, gripping",1993
+Silence of the Lambs,thriller,9.4,"dark, tense, gripping",2009
+Zodiac,thriller,8.5,"dark, tense, gripping",2004
+Prisoners,thriller,6.8,"dark, tense, gripping",2012
+Gone Girl,thriller,7.8,"dark, tense, gripping",2018
+Nightcrawler,thriller,6.8,"dark, tense, gripping",2018
+No Country for Old Men,thriller,7.5,"dark, tense, gripping",1999
+Parasite,thriller,9.2,"dark, tense, gripping",1997
+Knives Out,thriller,6.7,"dark, tense, gripping",2018
+The Girl with the Dragon Tattoo,thriller,9.4,"dark, tense, gripping",1991
+The Grand Budapest Hotel,comedy,9.4,"uplifting, fun, light",1994
+Superbad,comedy,9.4,"uplifting, fun, light",1994
+Bridesmaids,comedy,7.1,"uplifting, fun, light",2009
+Game Night,comedy,7.8,"uplifting, fun, light",2016
+The Nice Guys,comedy,8.1,"uplifting, fun, light",1996
+What We Do in the Shadows,comedy,7.3,"uplifting, fun, light",1999
+Palm Springs,comedy,8.1,"uplifting, fun, light",2005
+Knives Out,comedy,8.4,"uplifting, fun, light",2013
+About Time,comedy,8.5,"uplifting, fun, light",2011
+Hitch,comedy,6.9,"uplifting, fun, light",2016
+Interstellar,sci-fi,6.7,"curious, dark, imaginative",2009
+Arrival,sci-fi,7.4,"curious, dark, imaginative",2009
+Ex Machina,sci-fi,8.3,"curious, dark, imaginative",2009
+The Martian,sci-fi,6.8,"curious, dark, imaginative",1991
+Blade Runner 2049,sci-fi,7.3,"curious, dark, imaginative",2023
+Dune,sci-fi,8.6,"curious, dark, imaginative",1995
+District 9,sci-fi,7.3,"curious, dark, imaginative",1999
+Moon,sci-fi,7.9,"curious, dark, imaginative",2021
+Annihilation,sci-fi,8.3,"curious, dark, imaginative",1991
+Everything Everywhere All at Once,sci-fi,9.1,"curious, dark, imaginative",1990
+Spirited Away,animation,6.9,"calm, uplifting, warm",2014
+The Lion King,animation,7.0,"calm, uplifting, warm",2004
+Up,animation,7.1,"calm, uplifting, warm",2010
+Inside Out,animation,7.1,"calm, uplifting, warm",2011
+Coco,animation,8.4,"calm, uplifting, warm",2019
+WALL-E,animation,8.5,"calm, uplifting, warm",2017
+Spider-Man Into the Spider-Verse,animation,8.4,"calm, uplifting, warm",1993
+Princess Mononoke,animation,9.3,"calm, uplifting, warm",1998
+Your Name,animation,7.9,"calm, uplifting, warm",1990
+Soul,animation,7.2,"calm, uplifting, warm",1998
