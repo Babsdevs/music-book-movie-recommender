@@ -358,5 +358,5 @@ with exp_col3:
 st.markdown("---")
 st.markdown(
     "Built with Python · Streamlit · scikit-learn · Plotly &nbsp;|&nbsp; "
-    "Portfolio project by [Your Name]"
+    "Project by [Babs]"
 )
