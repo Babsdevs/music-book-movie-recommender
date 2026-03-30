@@ -8,6 +8,7 @@ Run this file on its own to test it:
     python preprocessing.py
 """
 
+import os
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
@@ -24,9 +25,12 @@ def load_data():
     """
     print("Loading data files...")
 
-    music_df  = pd.read_csv("data/music_data.csv")
-    books_df  = pd.read_csv("data/books_data.csv")
-    movies_df = pd.read_csv("data/movies_data.csv")
+    # This finds the correct path whether running locally or on Streamlit Cloud
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+    music_df  = pd.read_csv(os.path.join(BASE_DIR, "data", "music_data.csv"))
+    books_df  = pd.read_csv(os.path.join(BASE_DIR, "data", "books_data.csv"))
+    movies_df = pd.read_csv(os.path.join(BASE_DIR, "data", "movies_data.csv"))
 
     print(f"  Music rows  : {len(music_df)}")
     print(f"  Books rows  : {len(books_df)}")
