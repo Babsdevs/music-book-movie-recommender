@@ -99,8 +99,7 @@ music-book-movie-recommender/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR-USERNAME/music-book-movie-recommender.git
-cd music-book-movie-recommender
+git clone https://github.com/Babsdevs/music-book-movie-recommender
 
 # 2. Install libraries
 pip install -r requirements.txt
@@ -109,7 +108,7 @@ pip install -r requirements.txt
 python model.py
 
 # 4. Run the app
-streamlit run app.py
+https://recora.streamlit.app/
 ```
 
 ---
